@@ -14,4 +14,3 @@ while b==0:
     print(i)
     print(g)
     b=int(input("继续输入0结束输入1："))
-
